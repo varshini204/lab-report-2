@@ -19,8 +19,8 @@ void setup()
   pinMode(VOUT3, INPUT); //define pin mode
   pinMode(VOUT4, INPUT); //define pin mode
 }
-int x = 0; //define left mototr speed
-int y = 0; //define right mototr speed
+int x = 0; //define left motor speed
+int y = 0; //define right motor speed
 int z = 0; //define servo angle
 float weightedAverage; //define weighted average
 
